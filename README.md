@@ -2,7 +2,8 @@
 
 这里是小满✨，请多指教~
 
-🎈B站：[virtual小满](https://space.bilibili.com/506925078)
+🎈博客：https://virtualxiaoman.github.io
+B站：https://space.bilibili.com/506925078
 
 
 🤗喜欢人工智能~喜欢碧蓝档案~~
