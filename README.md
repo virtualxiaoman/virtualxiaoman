@@ -12,6 +12,12 @@ B站：https://space.bilibili.com/506925078
 
 🤔正在开发[更便捷的MLDL](https://github.com/virtualxiaoman/Easier_DataScience)、[AI笔记](https://github.com/virtualxiaoman/MLDLRL)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=virtualxiaoman&show_icons=true&theme=radical)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virtualxiaoman&bg_color=fffff0&color=708090)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=virtualxiaoman)
+
 <!--
 **virtualxiaoman/virtualxiaoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
