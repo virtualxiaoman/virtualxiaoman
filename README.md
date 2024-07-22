@@ -10,7 +10,7 @@ B站：https://space.bilibili.com/506925078
 
 ⚡已经基本完工的[B站小工具](https://github.com/virtualxiaoman/BiliTools)、[原神计算器](https://github.com/virtualxiaoman/Genshin-Calculator)
 
-🤔正在开发[更便捷的MLDL](https://github.com/virtualxiaoman/Easier_DataScience)、[AI笔记](https://github.com/virtualxiaoman/MLDLRL)
+🤔正在开发[更便捷的MLDL](https://github.com/virtualxiaoman/Easier_DataScience)、[AI笔记](https://github.com/virtualxiaoman/MLDLRL)、[以图搜图](https://github.com/virtualxiaoman/PSP)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=virtualxiaoman&show_icons=true&theme=radical)
 
