@@ -2,7 +2,7 @@
 
 这里是小满✨，请多指教~
 
-🏷️博客：https://virtualxiaoman.github.io
+🏷️博客：https://virtualxiaoman.github.io/blog/
 B站：https://space.bilibili.com/506925078
 
 
