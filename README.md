@@ -17,8 +17,8 @@ B站：https://space.bilibili.com/506925078
 ![trophy](https://github-profile-trophy.vercel.app/?username=virtualxiaoman)
 
 ### 📖 AI
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=virtualxiaoman&repo=Easier_DataScience)](https://github.com/virtualxiaoman/Easier_DataScience)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=virtualxiaoman&repo=MLDLRL)](https://github.com/virtualxiaoman/MLDLRL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=virtualxiaoman&repo=Easier_DataScience)](https://github.com/virtualxiaoman/Easier_DataScience)
 
 ### ⚡ 正在开发中的项目
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=virtualxiaoman&repo=BiliTools)](https://github.com/virtualxiaoman/BiliTools)
