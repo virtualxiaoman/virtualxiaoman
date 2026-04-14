@@ -14,12 +14,16 @@ B站：https://space.bilibili.com/506925078
 
 ### 📖 AI
 笔记：https://github.com/virtualxiaoman/MLDLRL
+
 demo：https://github.com/virtualxiaoman/AI
+
 QQ平台聊天机器人：https://github.com/virtualxiaoman/MMT
 
 ### ⚡ 正在开发中的项目
 B站Tools：https://github.com/virtualxiaoman/BiliTools
+
 以图搜图：https://github.com/virtualxiaoman/PSP
+
 基金：https://github.com/virtualxiaoman/FundTracking
 
 
@@ -27,6 +31,7 @@ B站Tools：https://github.com/virtualxiaoman/BiliTools
 ### 🛠️ 已经完结了的项目
 
 博客：https://github.com/virtualxiaoman/blog
+
 原神伤害计算器：https://github.com/virtualxiaoman/Genshin-Calculator
 
 
