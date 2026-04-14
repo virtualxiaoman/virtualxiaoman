@@ -9,26 +9,25 @@ B站：https://space.bilibili.com/506925078
 🤗喜欢人工智能~喜欢碧蓝档案~~
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=virtualxiaoman&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virtualxiaoman&hide=javascript,html,css,typescript)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virtualxiaoman&bg_color=fffff0&color=708090)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=virtualxiaoman)
 
 ### 📖 AI
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=virtualxiaoman&repo=MLDLRL)](https://github.com/virtualxiaoman/MLDLRL)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=virtualxiaoman&repo=Easier_DataScience)](https://github.com/virtualxiaoman/Easier_DataScience)
+笔记：https://github.com/virtualxiaoman/MLDLRL
+demo：https://github.com/virtualxiaoman/AI
+QQ平台聊天机器人：https://github.com/virtualxiaoman/MMT
 
 ### ⚡ 正在开发中的项目
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=virtualxiaoman&repo=BiliTools)](https://github.com/virtualxiaoman/BiliTools)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=virtualxiaoman&repo=PSP)](https://github.com/virtualxiaoman/PSP)
+B站Tools：https://github.com/virtualxiaoman/BiliTools
+以图搜图：https://github.com/virtualxiaoman/PSP
+基金：https://github.com/virtualxiaoman/FundTracking
+
 
 
 ### 🛠️ 已经完结了的项目
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=virtualxiaoman&repo=Genshin-Calculator)](https://github.com/virtualxiaoman/Genshin-Calculator)
-
+博客：https://github.com/virtualxiaoman/blog
+原神伤害计算器：https://github.com/virtualxiaoman/Genshin-Calculator
 
 
 
